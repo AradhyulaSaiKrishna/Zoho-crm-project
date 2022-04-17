@@ -11,7 +11,7 @@
 <pre>
 to<input type="text" name="toEmail" value="${email}"/>
 subject<input type="text" name="subject"/>
-<textarea name="emailBody" rows="10" cols="50">
+<textarea name="emailBody" rows="10" cols="40">
 </textarea>
 <input type="submit" value="Send"/>
 </pre>
